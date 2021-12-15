@@ -1,0 +1,21 @@
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\bin\Debug\TPInterfacePOO.exe.config
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\bin\Debug\TPInterfacePOO.exe
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\bin\Debug\TPInterfacePOO.pdb
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\obj\Debug\TPInterface.csprojAssemblyReference.cache
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\obj\Debug\TPInterface.csproj.CoreCompileInputs.cache
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\obj\Debug\TPInterfacePOO.exe
+D:\ScServices\Formation\Langage C# Test unitaires\2019 - 2020\B2\GPE2\TP\TP Interface\obj\Debug\TPInterfacePOO.pdb
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\bin\Debug\TPInterfacePOO.exe.config
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\bin\Debug\TPInterfacePOO.exe
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\bin\Debug\TPInterfacePOO.pdb
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\obj\Debug\TPInterface.csprojAssemblyReference.cache
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\obj\Debug\TPInterface.csproj.CoreCompileInputs.cache
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\obj\Debug\TPInterfacePOO.exe
+D:\ScServices\Formation\Langage C# Test unitaires\2020 - 2021\TP\TP Interface\obj\Debug\TPInterfacePOO.pdb
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\bin\Debug\TPInterfacePOO.exe.config
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\bin\Debug\TPInterfacePOO.exe
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\bin\Debug\TPInterfacePOO.pdb
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\obj\Debug\TPInterface.csproj.AssemblyReference.cache
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\obj\Debug\TPInterface.csproj.CoreCompileInputs.cache
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\obj\Debug\TPInterfacePOO.exe
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\C#POO\TP_Interface\obj\Debug\TPInterfacePOO.pdb
